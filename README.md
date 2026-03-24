@@ -11,3 +11,5 @@ En este proyecto se utilizaron las siguientes tecnologías:
 - Streamlit (aplicación web)
 - Pandas (análisis de datos)
 - Plotly (visualizaciones)
+  
+Enlace a render: https://sp7-proyecto-o8sp.onrender.com/ 
