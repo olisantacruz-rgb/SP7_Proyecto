@@ -1,4 +1,3 @@
-#Análisis de Datos de Vehículos en venta - Proyecto SP 7 DS 
 
 # Panel de Control de Análisis de Vehículos
 
